@@ -1,4 +1,3 @@
-
 ## Olá 👋 Seja Bem vindo(a) ao meu perfil!
 Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente sou estudante de tecnologia, na área de desenvolvimento web, e diariamente  busco mais e mais conhecimento para desenvolver minhas habilidades.
 
@@ -34,7 +33,10 @@ Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente s
   <img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </span>
 
-### Você pode entrar em contato comigo em:
-<a href="mailto: adadezer@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+### 🔗 Links
+##
+<span >
+  <a href="mailto: adadezer@gmail.com"> <img width="110em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<a href="www.linkedin.com/in/adadezer-iwazaki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="www.linkedin.com/in/adadezer-iwazaki" target="_blank"><img width="110em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</span>
