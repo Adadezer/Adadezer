@@ -38,5 +38,5 @@ Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente s
 <span >
   <a href="mailto: adadezer@gmail.com"> <img width="110em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-  <a href="www.linkedin.com/in/adadezer-iwazaki" target="_blank"><img width="110em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/adadezer-iwazaki/" target="_blank"><img width="110em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </span>
