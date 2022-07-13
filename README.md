@@ -1,10 +1,8 @@
 ## Olá 👋 Seja Bem vindo(a) ao meu perfil!
-Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente sou estudante de tecnologia, na área de desenvolvimento web, e diariamente  busco mais e mais conhecimento para desenvolver minhas habilidades.
+Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente sou desenvolvedor full-stack, e diariamente  busco mais e mais conhecimento para desenvolver minhas habilidades.
 
 
 ### Um pouco sobre mim
-- 🔭 Atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/)
-- 🌱 Estou estudando back-end
 - 🏘️ Moro no Grande ABC Paulista, em São Paulo, Brasil
 - 🥳 Meus hobbies são animes, jogos antigos, e música
 - ⚡ Uma curiosidade: embora não pareça nem um pouquinho, tenho descendência japonesa.
