@@ -7,17 +7,6 @@ Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente s
 - 🥳 Meus hobbies são animes, jogos antigos, e música
 - ⚡ Uma curiosidade: embora não pareça nem um pouquinho, tenho descendência japonesa.
 
-
-### Github Stats
-
-<a href="https://github.com/Adadezer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Adadezer&theme=tokyonight&show_icons=true&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Adadezer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
-</a>
-
-
 ### Linguagens e Ferramentas
 <span >
   <img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -38,3 +27,13 @@ Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente s
 
   <a href="https://www.linkedin.com/in/adadezer-iwazaki/" target="_blank"><img width="110em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </span>
+
+
+### Github Stats
+
+<a href="https://github.com/Adadezer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Adadezer&theme=tokyonight&show_icons=true&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Adadezer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+</a>
