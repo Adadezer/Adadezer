@@ -1,5 +1,5 @@
 ## Olá 👋 Seja Bem vindo(a) ao meu perfil!
-Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente sou desenvolvedor full-stack, e diariamente  busco mais e mais conhecimento para desenvolver minhas habilidades.
+Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente sou desenvolvedor web full-stack, e diariamente busco mais e mais conhecimento para desenvolver minhas habilidades em programação.
 
 
 ### Um pouco sobre mim
