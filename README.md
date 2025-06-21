@@ -1,5 +1,5 @@
 ## Olá 👋 Seja Bem vindo(a) ao meu perfil!
-Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente sou desenvolvedor web full-stack, e diariamente busco mais e mais conhecimento para desenvolver minhas habilidades em programação.
+Meu nome é Adadezer (sim, esse é meu nome mesmo! 😁). Atualmente sou desenvolvedor web full-stack, e diariamente busco me aperfeiçoar como desenvolvedor, sempre estudando e aplicando novos conhecimentos..
 
 
 ### Um pouco sobre mim
@@ -40,5 +40,5 @@ Meu nome é Adadezer (esse é meu nome mesmo, diferente né? 😁). Atualmente s
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Adadezer&theme=tokyonight&show_icons=true&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Adadezer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adadezer&layout=compact&theme=tokyonight" />
 </a>
