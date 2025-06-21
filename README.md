@@ -62,12 +62,13 @@ Atualmente sou desenvolvedor web full-stack apaixonado por tecnologia, aprendiza
 
 ---
 
-### 💼 Projetos em Destaque
+### Projetos em Destaque 💼
 
 | Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [**E-commerce Completo**]([https://github.com/Adadezer/ecommerce-projeto](https://github.com/Adadezer/app-delivery)) | Loja virtual com carrinho, autenticação e painel admin | React, Node.js, MySQL, Bootstrap |
-| [**Sistema de Reservas**]([https://github.com/Adadezer/reserva-viagem](https://github.com/Adadezer/trip-reservations)) | Aplicação para cadastro e reserva de viagens | React, Next.js, Tailwind CSS, Stripe |
+|--------|------------|-------------|
+| [**Sistema de Reservas**](https://github.com/Adadezer/trip-reservations) | Aplicação para cadastro e reserva de viagens | React, Next.js, Tailwind CSS, Stripe |
+| [**E-commerce Completo**](https://github.com/Adadezer/app-delivery) | Loja virtual com carrinho, autenticação e painel admin | React, Node.js, MySQL, Bootstrap |
+
 
 ---
 
